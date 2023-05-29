@@ -9,8 +9,15 @@ This github contains the following files:
 ### Demo Video
 A demo video for the HARDVS dataset can be found by cliking the image below: 
 <p align="center">
-  <a href="[https://youtu.be/U4uUjci9Gjc](https://youtu.be/3A0PvBYyJGE)">
-    <img src="[https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/figures/visevent_demoIMG.jpg](https://github.com/AnonymousResearch123/HARDVS/blob/main/HARDVS_logo.jpg)" alt="HARDVS_DemoVideo" width="700"/>
+  <a href="https://youtu.be/U4uUjci9Gjc">
+    <img src="https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark/blob/main/figures/visevent_demoIMG.jpg" alt="VisEvent_DemoVideo" width="700"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://youtu.be/U4uUjci9Gjc">
+    <img src="https://github.com/wangxiao5791509/RGB_Event_Tracking_Benchmark/blob/main/videosamples.png" alt="VisEvent_examples" width="700"/>
+  </a>
+</p>
+
 
